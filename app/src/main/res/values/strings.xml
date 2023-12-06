@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Toko Laptop</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="product_image">Product Image</string>
+    <string name="product_name">Product Title</string>
+    <string name="product_price">Product Price</string>
+    <string name="headline_toolbar">Discover \nour new items</string>
+    <string name="detail_appbar">Detail</string>
+    <string name="detail_price">Rp12.000.000</string>
+    <string name="detail_title">Acer Nitro 5</string>
+    <string name="detail_desc">Description</string>
+    <string name="detail_brand">Brand</string>
+    <string name="detail_type">Type</string>
+    <string name="detail_condition">Condition</string>
+    <string name="detail_weight">Weight</string>
+    <string name="detail_release_date">Release Data</string>
+    <string name="detail_add_to_cart">Add to Cart</string>
+    <string name="about_name">Fadhlan Sulistiyo Hidayat</string>
+    <string name="about_email">fadhlansulistiyo@gmail.com</string>
+    <string name="about_desc">Bachelor of Informatics Engineering with a major interest in Android Development. Have experience participating in Kampus Merdeka program Bangkit Academy 2021 Study Independent - Android Learning Path which studies Android application development from beginner to advanced levels. Looking for job opportunities for Android Developer or IT Staff positions.</string>
+
+</resources>
